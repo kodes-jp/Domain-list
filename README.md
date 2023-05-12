@@ -11,5 +11,5 @@
     https://kodes.asia/
     https://kodespen.com/
 
-[See the domain list for more information](https://www.kodes.jp/domain-list)
+[See the domain list for more information](https://www.kodes.jp/domain-list)  
 Last updated May 12, 2023
